@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5814" started-at="2022-09-28T11:43:28 AEST" finished-at="2022-09-28T11:43:34 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5814" started-at="2022-09-28T11:43:28 AEST" finished-at="2022-09-28T11:43:34 AEST">
+      <class name="com.file.demo.Basics">
+        <test-method status="PASS" signature="send()[pri:0, instance:com.file.demo.Basics@3b084709]" name="send" duration-ms="5783" started-at="2022-09-28T11:43:28 AEST" finished-at="2022-09-28T11:43:34 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send -->
+      </class> <!-- com.file.demo.Basics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
